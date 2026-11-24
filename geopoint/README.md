@@ -2,7 +2,7 @@
 
 Trabalho G2 de Desenvolvimento Frontend (Atitus Educação).
 
-- **Aluno(s):** Lucas Ribas Corso e Gabriel Thomasio Bordignon
+- **Alunos:** Lucas Ribas Corso e Gabriel Thomasio Bordignon
 - **Tecnologia escolhida:** HTML, CSS e JavaScript 
 - **URL da API usada:** `https://geopoint-6x4u.onrender.com` 
 
