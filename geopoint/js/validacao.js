@@ -1,4 +1,4 @@
-// Aceita vírgula ou ponto como separador decimal. Campo vazio vira NaN.
+
 function converterNumero(texto) {
   const limpo = texto.trim().replace(",", ".");
   if (limpo === "") {
@@ -7,7 +7,7 @@ function converterNumero(texto) {
   return Number(limpo);
 }
 
-// Devolve uma mensagem de erro, ou null se estiver tudo certo.
+
 function validarPonto(ponto) {
   if (!ponto.name) {
     return "Informe o nome do ponto.";
