@@ -1,4 +1,3 @@
-// Com ?id=... é edição (PUT); sem id é cadastro (POST).
 const idPonto = new URLSearchParams(location.search).get("id");
 const areaFormulario = document.getElementById("area-formulario");
 const titulo = document.getElementById("titulo");
