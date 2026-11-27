@@ -47,3 +47,8 @@ Não é necessário instalar dependências nem rodar um back-end local, pois a a
 ## Disciplina
 
 Trabalho G2 — Desenvolvimento Frontend — Atitus Educação.
+
+## Prints
+
+<img width="1361" height="596" alt="Captura de tela 2026-11-27 192544" src="https://github.com/user-attachments/assets/0ef441d4-12ec-446e-beea-09dbfebcc11f" />
+
