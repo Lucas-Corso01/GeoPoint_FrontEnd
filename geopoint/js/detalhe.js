@@ -7,7 +7,6 @@ function criarItemDetalhe(rotulo, valor) {
   return item;
 }
 
-// Mapa do OpenStreetMap com o marcador do ponto (como na tela interna do Figma).
 function criarMapa(latitude, longitude) {
   const lat = Number(latitude);
   const lng = Number(longitude);
