@@ -50,5 +50,8 @@ Trabalho G2 — Desenvolvimento Frontend — Atitus Educação.
 
 ## Prints
 
-<img width="1361" height="596" alt="Captura de tela 2026-11-27 192544" src="https://github.com/user-attachments/assets/0ef441d4-12ec-446e-beea-09dbfebcc11f" />
+Listagem: <img width="1361" height="596" alt="Captura de tela 2026-11-27 192544" src="https://github.com/user-attachments/assets/0ef441d4-12ec-446e-beea-09dbfebcc11f" />
+
+Filtro: <img width="1368" height="584" alt="image" src="https://github.com/user-attachments/assets/ed54c59a-cd91-4992-8905-9a8f7a550ca4" />
+
 
