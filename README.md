@@ -28,7 +28,6 @@ Aplicação web para cadastrar, consultar, editar e excluir pontos geográficos.
 - CSS3
 - JavaScript (puro)
 - API GeoPoint (consumo via `fetch`)
-- Biblioteca de mapas _(ex.: Leaflet + OpenStreetMap — ajuste conforme o que você usou)_
 
 ## Como executar
 
