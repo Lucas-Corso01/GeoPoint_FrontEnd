@@ -10,7 +10,6 @@ Aplicação web para cadastrar, consultar, editar e excluir pontos geográficos.
 ## Funcionalidades
 
 - Listar os pontos geográficos cadastrados na API.
-- Filtrar a lista por nome ou descrição e ordenar por nome.
 - Cadastrar pontos com nome, descrição e coordenadas.
 - Consultar os detalhes de um ponto.
 - Editar e excluir pontos.
