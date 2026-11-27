@@ -54,4 +54,11 @@ Listagem: <img width="1361" height="596" alt="Captura de tela 2026-11-27 192544"
 
 Filtro: <img width="1368" height="584" alt="image" src="https://github.com/user-attachments/assets/ed54c59a-cd91-4992-8905-9a8f7a550ca4" />
 
+Cadastro: <img width="1275" height="758" alt="image" src="https://github.com/user-attachments/assets/0514a3f3-40a6-45da-a068-06cac75cd8c0" />
+
+Detalhes do ponto: <img width="1288" height="1004" alt="image" src="https://github.com/user-attachments/assets/74bb3c7d-1d0a-4ef6-a76d-6eacafe17222" />
+ 
+
+
+
 
