@@ -44,19 +44,6 @@ Aplicação web para cadastrar, consultar, editar e excluir pontos geográficos.
 
 Não é necessário instalar dependências nem rodar um back-end local, pois a aplicação consome a API hospedada.
 
-## Estrutura do projeto
-
-```
-GeoPoint_FrontEnd/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── app.js
-└── README.md
-```
-
-_(Ajuste a estrutura conforme os arquivos do seu projeto.)_
 
 ## Disciplina
 
