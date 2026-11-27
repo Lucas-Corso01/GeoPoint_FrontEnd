@@ -5,7 +5,7 @@ Aplicação web para cadastrar, consultar, editar e excluir pontos geográficos.
 ## Integrantes
 
 - Lucas Ribas Corso — RA: 1139917
-- Gabriel Thomasio Bordignon — RA: _(preencher)_
+- Gabriel Thomasio Bordignon — RA: 1139694
 
 ## Funcionalidades
 
