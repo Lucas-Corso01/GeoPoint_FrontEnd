@@ -1,6 +1,3 @@
-// Componentes visuais reutilizáveis: cada função monta e devolve elementos.
-// Dados vindos da API são sempre inseridos com textContent.
-
 function criarElemento(tag, classe, texto) {
   const elemento = document.createElement(tag);
   if (classe) elemento.className = classe;
@@ -47,7 +44,6 @@ function criarNavbar(paginaAtual) {
   return barra;
 }
 
-// Rótulo ligado ao campo (label for = id). Devolve o envoltório e o input.
 function criarCampoTexto({ id, rotulo, valor = "", multilinha = false, modo = "text" }) {
   const envoltorio = criarElemento("div", "campo");
   const label = criarElemento("label", "campo-rotulo", rotulo);
@@ -130,8 +126,7 @@ function criarTabelaPontos(pontos, aoExcluir) {
   return tabela;
 }
 
-// Formulário único: serve para cadastrar e para editar.
-// aoSalvar(dados) deve devolver uma Promise; se falhar, o erro aparece na tela.
+// formulário
 function criarFormPonto(pontoInicial, textoBotao, aoSalvar) {
   const form = criarElemento("form", "formulario");
   form.noValidate = true;
